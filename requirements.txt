@@ -1,5 +1,22 @@
+# Bibliotecas fundamentales para ciencia de datos
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
 
-matplotlib==3.8.0
-numpy==1.26.4
-pandas==2.1.4
-scipy==1.11.4
+# Visualización de datos
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+jupyterlab>=3.6.0
+ipykernel>=6.21.0
+
+# Procesamiento y análisis de datos
+statsmodels>=0.13.5
+category_encoders>=2.6.0
+
+# Manipulación de datos
+openpyxl>=3.1.0 
