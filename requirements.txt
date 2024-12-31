@@ -1,4 +1,4 @@
-# Bibliotecas fundamentales para ciencia de datos
+# Bibliotecas fundamentales
 numpy>=1.24.0
 pandas>=2.0.0
 scipy>=1.10.0
@@ -19,3 +19,6 @@ category_encoders>=2.6.0
 
 # Manipulación de datos
 openpyxl>=3.1.0 
+
+# Otras bibliotecas
+yfinance>=0.2.30
