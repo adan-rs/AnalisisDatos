@@ -3,15 +3,16 @@
 Repositorio con notebooks y scripts para aprender análisis de datos desde cero utilizando Python y Jupyter/Colab.
 
 ## Estructura del repositorio
-AnalisisDatos/
-├── notebooks/              # Cuadernos principales del curso  
-│   └── practicas/          # Ejercicios y prácticas por tema  
-├── data/                   # Archivos CSV, Excel, etc.  
-├── utils/                  # Funciones de apoyo en Python  
-│   └── __init__.py         # Permite importar como paquete  
-├── requirements.txt        # Paquetes requeridos para entorno local  
-├── setup_colab.ipynb       # Script para iniciar entorno en Colab  
-└── README.md               # Este archivo  
+- `data/`: archivos CSV, Excel, etc.
+- `notebooks/`
+  - Notebooks principales del curso
+  - `practicas/`: ejercicios por tema
+- `recursos`
+- `utils/`: funciones auxiliares en Python
+- `setup_colab.ipynb`: preparación del entorno en Colab
+- `README.md`: este archivo
+- `requirements.txt`: lista de paquetes para entorno local
 
 ## Autor
-Adán Reyes
+Desarrollado por Adán Reyes para fines educativos
+©2025. Todos los derechos reservados.
